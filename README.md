@@ -2,7 +2,7 @@
 Command line music player using python and pygame
 # Features
 ->Play mp3 files
-->Play,Resume,Stop controls
+->Play[P],Resume[R],Stop[S],Quit[Q] controls
 ## How to use
 1:Clone or download this repository
 2:Create a folder named "songs"
